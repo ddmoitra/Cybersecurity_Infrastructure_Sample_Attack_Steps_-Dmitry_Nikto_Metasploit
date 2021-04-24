@@ -15,9 +15,11 @@
 ![image](https://user-images.githubusercontent.com/46364751/115974716-96147800-a52c-11eb-9362-94a0f0bde74a.png)
 
 *Dmitry tool is executed on Kali Linux using the target vulnerable VM's IP address and performs information gathering. Log file is included in project folder.
+
 ![image](https://user-images.githubusercontent.com/46364751/115974722-a2003a00-a52c-11eb-9df4-4d3953fb5349.png)
 
 *Nikto is then run to gather and report all potential vulnerabilites on the Metasploitable VM. Log file is included in project folder.
+
 ![image](https://user-images.githubusercontent.com/46364751/115974727-acbacf00-a52c-11eb-86ed-c65311889ca9.png)
 
 *Metasploit on Kali Linux is executed and a backdoor exploit (exploit/unix/irc/unreal_ircd_3281_backdoor) is selected as the choice of attack

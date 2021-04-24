@@ -1,0 +1,26 @@
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+ERROR: Unable to locate Host Name for 10.0.2.4
+Continuing with limited modules
+HostIP:10.0.2.4
+HostName:
+
+Gathered TCP Port information for 10.0.2.4
+---------------------------------
+
+ Port           State
+
+21/tcp          open
+>> 220 (vsFTPd 2.3.4)
+
+22/tcp          open
+>> SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
+
+23/tcp          open
+>> ��▒�� ��#��'
+25/tcp          open
+>> 220 metasploitable.localdomain ESMTP Postfix (Ubuntu)
+
+53/tcp          open
+zsh: segmentation fault  dmitry -pb 10.0.2.4

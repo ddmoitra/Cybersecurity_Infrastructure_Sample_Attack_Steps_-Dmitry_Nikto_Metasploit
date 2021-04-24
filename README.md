@@ -39,13 +39,13 @@
 
 * The following tools were used in this project:
 
-*Oracle VirtualBox 6.1
-*Debian Ubuntu i386 CD ISO image
-*Kali Linux VM 2021.1
-*Metasploitable Ubuntu vmdk image
-*Dmitry
-*Nikto v2.1.6
-*Metasploit v6.0.30-dev
+* Oracle VirtualBox 6.1
+* Debian Ubuntu i386 CD ISO image
+* Kali Linux VM 2021.1
+* Metasploitable Ubuntu vmdk image
+* Dmitry
+* Nikto v2.1.6
+* Metasploit v6.0.30-dev
 
 
 ### Support
